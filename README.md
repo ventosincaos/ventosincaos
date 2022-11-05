@@ -8,6 +8,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 
+<br>
+<img align="right" alt="cat" src="cat_and_fridge.gif" height = 200 width = 300/>
+
 
 
 <!--
