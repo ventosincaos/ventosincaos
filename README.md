@@ -1,8 +1,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> - Olá, eu sou Mariana Alves, uma estudante <br> de analise e desenvolvimento de sistemas
 
-- 🔭 Estou trabalhando em meu projeto de conclusão de curso ✨[projeto i9](https://github.com/gadgetsmag.github.io)
+- 🔭 Estou trabalhando em meu projeto de conclusão de curso ✨[projeto i9] <img align="right" alt="cat" src="https://gifer.com/embed/2iFd" width=480 height=480.000 frameBorder="0" height = 200 width = 300/>
 - 🌱 I’m currently learning Javascript, PHP & Java 
-- 
 <br />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26)
