@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 
 <br>
-<img align="right" alt="cat" src="cat_and_fridge.gif" height = 200 width = 300/>
+<img align="left" alt="cat" src="cat_and_fridge.gif" height = 200 width = 300/>
 
 
 
