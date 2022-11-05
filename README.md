@@ -1,7 +1,8 @@
-### Olá 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> - Olá, eu sou Mariana Alves, uma estudante <br> de analise e desenvolvimento de sistemas
 
-### 👨‍💻 Linguagens
-
+- 🔭 Estou trabalhando em meu projeto de conclusão de curso ✨[projeto i9](https://github.com/gadgetsmag.github.io)
+- 🌱 I’m currently learning Javascript, PHP & Java 
+- 
 <br />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26)
