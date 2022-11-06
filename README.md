@@ -22,19 +22,19 @@ conclusão de curso ✨<!--[projeto i9]-->
 <!-- GIT -->
 <h3 align="right"> 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px">
-  - Olá, eu sou Mariana Alves, uma estudante <br> 
+  - Atualmente estou aprendendo algumas <br> 
   <img align="left" alt="cat" src="plant.gif" height = 200>
-  de analise e desenvolvimento de sistemas 
+  linguagens e metodologias, sendo elas: 
 </h3>
 
 <h4> 
-  <img height="140px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos&title_color=51B3CD&layout=compact&border_color=E5A1D9&hide_border=false&locale=pt-br" /> 
-  - ✨ atualmente estou aprendendo: 
+  <img height="130px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos&title_color=51B3CD&layout=compact&border_color=E5A1D9&hide_border=false&locale=pt-br" /> 
 </h4>
-   - mysql <br>
-   - java <br>
- 
 
+- [x] php
+- [x] scrum
+- [ ] mysql
+- [ ] java 🎉
 
 <!-- Para futuras atualizações
 ![Java](https://img.shields.io/badge/-JAVA-white?style=for-the-badge&logo=java&logoColor=f89820)
