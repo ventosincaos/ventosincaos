@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> - Olá, eu sou Mariana Alves, uma estudante <img align="right" alt="cat" src="dancing_cat.gif" height = 200 width = 300/> <br> de analise e desenvolvimento de sistemas 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> - Olá, eu sou Mariana Alves, uma estudante <img align="right" alt="cat" src="dancing_cat.gif" height = 200/> <br> de analise e desenvolvimento de sistemas 
 
 - 🔭 Estou trabalhando em meu projeto de conclusão de curso ✨[projeto i9]
 - 🌱 Estou aprendendo PHP e Java
@@ -9,7 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 
 <br>
-<img align="left" alt="cat" src="cat_and_fridge.gif" height = 200 width = 300/>
+<img align="left" alt="cat" src="cat_and_fridge.gif" height = 200>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 
 
