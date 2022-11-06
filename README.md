@@ -13,7 +13,6 @@ conclusão de curso ✨<!--[projeto i9]-->
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F0DB4F) <br>
-![PHP](https://img.shields.io/badge/-PHP-white?style=for-the-badge&logo=php&logoColor=777BB3)
 
 <h1> </h1>
 <h3 align=center> . . . </h3>
@@ -24,17 +23,14 @@ conclusão de curso ✨<!--[projeto i9]-->
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px">
   - Atualmente estou aprendendo algumas <br> 
   <img align="left" alt="cat" src="plant.gif" height = 200>
-  linguagens e metodologias, sendo elas: 
+  linguagens, sendo elas: 
 </h2>
 
-<h4> 
-  <img height="130px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos&title_color=51B3CD&layout=compact&border_color=E5A1D9&hide_border=false&locale=pt-br" /> 
-</h4>
 
-  - [x] php
-  - [x] scrum
-  - [ ] mysql
-  - [ ] java 🎉
+![Java](https://img.shields.io/badge/-java-white?style=for-the-badge&logo=java&logoColor=f89820)
+![mysql](https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql&logoColor=F0DB4F) <br>
+![PHP](https://img.shields.io/badge/-PHP-white?style=for-the-badge&logo=php&logoColor=777BB3)
+
 
 <!-- Para futuras atualizações
 ![Java](https://img.shields.io/badge/-JAVA-white?style=for-the-badge&logo=java&logoColor=f89820)
