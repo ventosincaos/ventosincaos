@@ -23,7 +23,7 @@ conclusão de curso ✨<!--[projeto i9]-->
 
 <!-- Aprendendo -->
   
-                                <!-- Adicionar posteriormente
+<!-- Adicionar posteriormente
 <div align=right>
   <h2> 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px">
