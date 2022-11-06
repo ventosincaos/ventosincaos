@@ -1,9 +1,9 @@
-<h3> 
+<h2> 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   - Olá, eu sou Mariana Alves, uma estudante 
   <img align="right" alt="cat" src="dancing_cat.gif" height = 200/> <br> 
   de analise e desenvolvimento de sistemas 
-</h3>
+</h2>
 
 - 🔭 Estou trabalhando em meu projeto de <br> 
 conclusão de curso ✨<!--[projeto i9]-->
@@ -20,21 +20,21 @@ conclusão de curso ✨<!--[projeto i9]-->
 <h1> </h1>
 
 <!-- GIT -->
-<h3 align="right"> 
+<h2 align="right"> 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px">
   - Atualmente estou aprendendo algumas <br> 
   <img align="left" alt="cat" src="plant.gif" height = 200>
   linguagens e metodologias, sendo elas: 
-</h3>
+</h2>
 
 <h4> 
   <img height="130px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos&title_color=51B3CD&layout=compact&border_color=E5A1D9&hide_border=false&locale=pt-br" /> 
 </h4>
 
-- [x] php
-- [x] scrum
-- [ ] mysql
-- [ ] java 🎉
+  - [x] php
+  - [x] scrum
+  - [ ] mysql
+  - [ ] java 🎉
 
 <!-- Para futuras atualizações
 ![Java](https://img.shields.io/badge/-JAVA-white?style=for-the-badge&logo=java&logoColor=f89820)
