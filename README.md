@@ -22,6 +22,8 @@ conclusão de curso ✨<!--[projeto i9]-->
 <br><h3 align=center> .   .   . </h3><br>
 
 <!-- Aprendendo -->
+  
+                                <!-- Adicionar posteriormente
 <div align=right>
   <h2> 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px">
@@ -31,12 +33,8 @@ conclusão de curso ✨<!--[projeto i9]-->
   </h2>
 </div>
 
-<!-- Linguagens 2 -->
 <div align=right> <br>
         <img src="https://img.shields.io/badge/-java-white?style=for-the-badge&logo=java&logoColor=f89820">
         <img src="https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql&logoColor=F0DB4F"> <br>
         <img src="https://img.shields.io/badge/-PHP-white?style=for-the-badge&logo=php&logoColor=777BB3">
-</div>
-
-<!-- Para futuras atualizações
--->
+</div> -->
