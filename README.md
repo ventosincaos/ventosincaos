@@ -1,7 +1,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> - Olá, eu sou Mariana Alves, uma estudante <img align="right" alt="cat" src="dancing_cat.gif" height = 200/> <br> de analise e desenvolvimento de sistemas 
 
 - 🔭 Estou trabalhando em meu projeto de <br> 
-conclusão de curso ✨[projeto i9]
+conclusão de curso ✨<!--[projeto i9]-->
 - 🌱 Estou no terceiro semestre do meu curso
 <br>
 
