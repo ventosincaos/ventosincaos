@@ -15,9 +15,12 @@ conclusão de curso ✨<!--[projeto i9]-->
 
 <br>
 <img align="left" alt="cat" src="plant.gif" height = 200>
- <br><img height = 150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos&title_color=51B3CD&layout=compact&border_color=E5A1D9&hide_border=false&locale=pt-br" /><br>
+ <br><img height = 150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos&title_color=51B3CD&layout=compact&border_color=E5A1D9&hide_border=false&locale=pt-br" />
  
- - ✨ atualmente estou aprendendo php, mysql e java
+ - ✨ atualmente estou aprendendo: 
+ - php
+ - mysql
+ - java
  - 📚 possuo certificado em SCRUM
 
 <!-- Para futuras atualizações
