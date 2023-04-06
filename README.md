@@ -19,7 +19,7 @@ conclusão de curso ✨<!--[projeto i9]-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![PHP](https://img.shields.io/badge/-PHP-white?style=for-the-badge&logo=php&logoColor=787CB5)
  <br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=ED8B00)
 
 <!-- Divisoria -->
 <br><h3 align=center> .   .   . </h3><br>
