@@ -11,7 +11,7 @@
 <!-- Descricao -->
 - 🔭 Estou trabalhando em meu projeto de <br> 
 conclusão de curso ✨<!--[projeto i9]-->
-  - 🌱 Estou no terceiro semestre do meu curso <br>
+  - 🌱 Estou no quarto semestre do meu curso <br>
 
 <!-- Linguagens 1 -->
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26)
