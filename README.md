@@ -13,6 +13,8 @@
 ![PHP](https://img.shields.io/badge/C-FFFfff?style=for-the-badge&logo=php&logoColor=777BB4)
 ![C#](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=239120)
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos)](https://github.com/anuraghazra/github-readme-stats)
 
 
