@@ -1,5 +1,5 @@
 ### Olá 👋
-##### Estudante de Engenharia de Software
+#### Estudante de Engenharia de Software
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5)
 
