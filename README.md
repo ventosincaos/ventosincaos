@@ -1,7 +1,7 @@
 ### Olá, me chamo Mariana 👋
 #### Estudante de Engenharia de Software
 
-- Linkedin
+- Linkedin <br>
 ![linkedin](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5)
 
 - O que eu sei?
