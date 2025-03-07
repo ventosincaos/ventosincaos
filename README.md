@@ -11,6 +11,6 @@
 ![.NET](https://img.shields.io/badge/.NET-FFFFFF?style=for-the-badge&logo=.net&logoColor=5C2D91)
 ![PHP](https://img.shields.io/badge/PHP-FFFfff?style=for-the-badge&logo=php&logoColor=777BB4)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ventosincaos)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos)](https://github.com/anuraghazra/github-readme-stats)
 
 
