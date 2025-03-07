@@ -1,6 +1,6 @@
 ### Olá, me chamo Mariana 👋
 
-Bem-vindo ao meu perfil no GitHub! Atualmente estudo Engenharia de Software. 
+Bem-vindo ao meu perfil no GitHub!
 <br><br>
 ![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26) 
 ![CSS](https://img.shields.io/badge/CSS-FFFFFF?&style=for-the-badge&logo=css3&logoColor=239120)
