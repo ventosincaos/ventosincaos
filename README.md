@@ -1,8 +1,6 @@
 ### Olá, me chamo Mariana 👋
-#### Estudante de Engenharia de Software
 
-- Linkedin <br>
-![linkedin](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5)
+Bem-vindo ao meu perfil no GitHub! Atualmente estudo Engenharia de Software. 
 
 - O que eu sei?<br>
 ![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26)
