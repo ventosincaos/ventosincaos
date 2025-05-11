@@ -2,7 +2,7 @@
 ---
 ### Olá, me chamo Mariana 👋
 
-Graduanda em Engenharia de Software | Desenvolvedora Back-end .NET | C# | .NET
+Graduanda em Engenharia de Software | Desenvolvedora Back-end .NET | C# | JS
 ---
 <br> 
 
