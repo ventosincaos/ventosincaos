@@ -1,4 +1,3 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/miaalves)
 ### Olá, me chamo Mariana 👋
 
 Bem-vindo ao meu perfil no GitHub!
@@ -13,5 +12,6 @@ Bem-vindo ao meu perfil no GitHub!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos&hide_progress=true)
 <br>
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://br.linkedin.com/in/miaalves)
 
 
