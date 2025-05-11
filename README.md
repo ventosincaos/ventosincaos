@@ -1,6 +1,7 @@
 ### Olá, me chamo Mariana 👋
 
 Bem-vindo ao meu perfil no GitHub!
+---
 <br><br>
 ![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26) 
 ![CSS](https://img.shields.io/badge/CSS-FFFFFF?&style=for-the-badge&logo=css3&logoColor=239120)
@@ -12,6 +13,7 @@ Bem-vindo ao meu perfil no GitHub!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos&hide_progress=true)
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://br.linkedin.com/in/miaalves)]
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://br.linkedin.com/in/miaalves)
 
 
