@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub!
 ---
-<br>
+<br><
 ![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26) 
 ![CSS](https://img.shields.io/badge/CSS-FFFFFF?&style=for-the-badge&logo=css3&logoColor=239120)
 ![JS](https://img.shields.io/badge/JS-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>
