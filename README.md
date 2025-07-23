@@ -1,33 +1,53 @@
-## Olá, me chamo Mariana 👋
+<h1 align="left">Hey 👋</h1>
 
-Sou graduanda em Engenharia de Software apaixonada por desenvolver aplicações web. Busco sempre aprender novas tecnologias para entregar o melhor código. <br> 
+###
 
-### 🚀 Tecnologias & Ferramentas 
+<p align="left">Sou graduanda em Engenharia de Software apaixonada por desenvolver aplicações web.</p>
 
-<br>
+###
 
-<div align="center">
+<h2 align="left">Sobre mim</h2>
 
-![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26) 
-![CSS](https://img.shields.io/badge/CSS-FFFFFF?&style=for-the-badge&logo=css3&logoColor=239120)
-![JS](https://img.shields.io/badge/JS-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![.NET](https://img.shields.io/badge/.NET-FFFFFF?style=for-the-badge&logo=.net&logoColor=5C2D91)
-![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=777BB4)
-![C#](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=239120)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventosincaos&hide_progress=true)
+###
 
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estudando Java</p>
+
+###
+
+<h2 align="left">Tecnologias & Ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
-##
+###
 
-<div align="right">
-  
-### CONTATO
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://br.linkedin.com/in/miaalves)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ventosincaos/ventosincaos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ventosincaos/ventosincaos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ventosincaos/ventosincaos/output/pacman-contribution-graph.svg">
+</picture>
 
-</div>
-
+###
 
 
