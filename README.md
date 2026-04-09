@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estudando Java</p>
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estudando análise de dados</p>
 
 ###
 
